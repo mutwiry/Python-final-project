@@ -45,8 +45,8 @@ Please download the latest version of this file and place it in the root directo
 
 1.  **Clone the repository (or download the files):**
     ```bash
-    git clone <>
-    cd <>
+    git clone <https://github.com/mutwiry/Python-final-project.git>
+    cd <Python-final-project>
     ```
 
 2.  **Create and activate a Conda environment (recommended):**
@@ -73,7 +73,7 @@ Please download the latest version of this file and place it in the root directo
     This will open a new tab in your web browser.
 
 5.  **Open and run the notebook:**
-    Navigate to and open the `COVID-19_Global_Data_Tracker.ipynb` (or whatever you named your notebook file). You can then run the cells sequentially to execute the code and see the outputs.
+    Navigate to and open the `Data Tracker.ipynb` (or whatever you named your notebook file). You can then run the cells sequentially to execute the code and see the outputs.
 
 ### Viewing on GitHub
 
